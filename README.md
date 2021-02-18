@@ -1,2 +1,2 @@
-# Machine-Learning-Internship
+# Mini Project
 For my minor project
